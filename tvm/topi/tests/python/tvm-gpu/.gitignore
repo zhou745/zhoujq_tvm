@@ -1,0 +1,5 @@
+.vscode
+perf
+*.log
+*.pyc
+*.o
